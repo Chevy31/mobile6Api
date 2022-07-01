@@ -1,54 +1,62 @@
-{
-    "page": 2,
-    "per_page": 6,
-    "total": 12,
-    "total_pages": 2,
-    "data": [
-        {
-            "id": 7,
-            "email": "michael.lawson@reqres.in",
-            "first_name": "Michael",
-            "last_name": "Lawson",
-            "avatar": "https://reqres.in/img/faces/7-image.jpg"
-        },
-        {
-            "id": 8,
-            "email": "lindsay.ferguson@reqres.in",
-            "first_name": "Lindsay",
-            "last_name": "Ferguson",
-            "avatar": "https://reqres.in/img/faces/8-image.jpg"
-        },
-        {
-            "id": 9,
-            "email": "tobias.funke@reqres.in",
-            "first_name": "Tobias",
-            "last_name": "Funke",
-            "avatar": "https://reqres.in/img/faces/9-image.jpg"
-        },
-        {
-            "id": 10,
-            "email": "byron.fields@reqres.in",
-            "first_name": "Byron",
-            "last_name": "Fields",
-            "avatar": "https://reqres.in/img/faces/10-image.jpg"
-        },
-        {
-            "id": 11,
-            "email": "george.edwards@reqres.in",
-            "first_name": "George",
-            "last_name": "Edwards",
-            "avatar": "https://reqres.in/img/faces/11-image.jpg"
-        },
-        {
-            "id": 12,
-            "email": "rachel.howell@reqres.in",
-            "first_name": "Rachel",
-            "last_name": "Howell",
-            "avatar": "https://reqres.in/img/faces/12-image.jpg"
-        }
-    ],
-    "support": {
-        "url": "https://reqres.in/#support-heading",
-        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
-    }
-}
+[
+	{
+		"judul": "judul 1",
+		"artis": "artis 1",
+		"id": "1"
+	},
+	{
+		"judul": "judul 2",
+		"artis": "artis 2",
+		"id": "2"
+	},
+	{
+		"judul": "judul 3",
+		"artis": "artis 3",
+		"id": "3"
+	},
+	{
+		"judul": "judul 4",
+		"artis": "artis 4",
+		"id": "4"
+	},
+	{
+		"judul": "judul 5",
+		"artis": "artis 5",
+		"id": "5"
+	},
+	{
+		"judul": "judul 6",
+		"artis": "artis 6",
+		"id": "6"
+	},
+	{
+		"judul": "judul 7",
+		"artis": "artis 7",
+		"id": "7"
+	},
+	{
+		"judul": "judul 8",
+		"artis": "artis 8",
+		"id": "8"
+	},
+	{
+		"judul": "judul 9",
+		"artis": "artis 9",
+		"id": "9"
+	},
+	{
+		"judul": "judul 10",
+		"artis": "artis 10",
+		"id": "10"
+	},
+	{
+		"judul": "judul 11",
+		"artis": "artis 11",
+		"id": "11"
+	},
+	{
+		"judul": "judul 12",
+		"artis": "artis 12",
+		"id": "12"
+	}
+]
